@@ -3,8 +3,8 @@ title: Redback's Blog
 SEOTitle: Redback 的博客 | Redback's Blog | redback
 header-img: img/home-bg.jpg
 email: hi@redback.me
-description: "Most impotantly,if you LOVE someone, tell him or her,for you never know what tomorrow may have in store."
-keyword: "BY, BY Blog, Redback 的博客, developer, game, web, linux"
+description: "redback's blog 向世界分享我的想法"
+keyword: "BY, BY Blog, Redback 的博客, 开发，生活，思考，探索， 分享 。developer, life, game, web, linux"
 url: "http://import1024.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/import1024/import1024.github.io.git" # you code repository
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-disqus_username: import1024
+#disqus_username: import1024
 
 # Gitalk
 gitalk:
