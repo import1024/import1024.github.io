@@ -140,7 +140,7 @@ Actor 引用标明了一个 Actor，其生命周期和 Actor 的生命周期保�
 
 你可以创建一个 Actor，终止它，然后创建一个具有相同路径的新 Actor。新创建的实例是 Actor 的一个新的化身。它并不是一样的 Actor。一个指向老的化身的 Actor 引用不适用于新的化身。发送给老的 Actor 引用的消息不会被传递到新的化身，即使它们拥有相同的路径。
 
-#### Actor路径锚点
+#### Actor 路径锚点
 
 ```
 "akka://my-sys/user/service-a/worker1"                   // 纯本地
@@ -269,7 +269,7 @@ Akka Remoting 是以对等网络方式进行 Actor 系统连接的通信模块�
 
 这两条规则都只应用于同一个 Actor 实例，对不同的 Actor 则无效。
 
-#### Future 与 Java内存模型
+#### Future 与 Java 内存模型
 
 一个 Future 的完成 “先于” 任何注册到它的回调函数的执行。
 
