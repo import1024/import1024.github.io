@@ -2,7 +2,7 @@
 layout:     post
 title:      Akka 概述
 subtitle:   Akka 入门
-date:       2018-02-26
+date:       2018-02-27
 author:     Redback
 header-img: img/post-bg-akka-log.png
 catalog: 	 true
