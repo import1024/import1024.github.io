@@ -4,7 +4,7 @@ title:      那些远离知乎的人们
 subtitle:   我为什么不喜欢你？
 date:       2018-03-12
 author:     Redback
-header-img: img/post-bg-leaving-zhihu-people.jpg
+header-img: img/post-bg-leaving-zhihu.jpg
 catalog: 	 true
 tags:
     - 
