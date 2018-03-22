@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      那些远离知乎的人们
-subtitle:   我为什么不喜欢你？
+subtitle:   我为什么离开？
 date:       2018-03-12
 author:     Redback
 header-img: img/post-bg-leaving-zhihu.jpg
