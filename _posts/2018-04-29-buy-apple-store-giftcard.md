@@ -4,7 +4,7 @@ title:      如何在美区 App Store 购买应用？
 subtitle:   假装在美国
 date:       2018-04-30
 author:     Redback
-header-img: img/post-bg-app-store.jpg
+header-img: img/post-bg-app-store.png
 catalog: 	 true
 tags:
     - 
