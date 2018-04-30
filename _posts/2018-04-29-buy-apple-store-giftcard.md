@@ -4,7 +4,7 @@ title:      如何在美区 App Store 购买应用？
 subtitle:   假装在美国
 date:       2018-04-30
 author:     Redback
-header-img: img/post-bg-app-store.png
+header-img: img/post-bg-app-store.jpg
 catalog: 	 true
 tags:
     - 
@@ -380,4 +380,4 @@ It was definitely a pleasure chatting with you today, Redback! I hope you have a
 ![](/img/post-content-apple-reply-4.png)
 
 
-至此，经过这一些列的摸索和爬坑，我终于用上了完整的没去 Apple Store 服务。
+至此，经过这一些列的摸索和爬坑，我终于用上了完整的美区 Apple Store 服务。
