@@ -4,7 +4,7 @@ title:      写在欧冠决赛前
 subtitle:   我为什么不再喜欢足球
 date:       2019-05-31
 author:     Redback
-header-img: img/post-bg-nxczdtlpost-bg-champions.jpg
+header-img: img/post-bg-champions.jpg
 catalog: 	 true
 tags:
     - 感悟
