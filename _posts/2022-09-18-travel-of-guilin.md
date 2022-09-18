@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      桂林游记
-subtitle:   “遇见未知”
+subtitle:   遇见未知
 date:       2022-09-18
 author:     Redback
-header-img: img/post-bg-travl-gl.JPG
+header-img: img/post-bg-travl-gl.jpg
 catalog: 	 true
 tags:
     - 桂林
@@ -31,11 +31,11 @@ tags:
 2022 年 9 月 9 日晚到达桂林。把行李放酒店之后，开始在大街上游荡，寻找美食的下落。在一家老字号吃了一顿啤酒鱼之后，去两江西湖赏月，在漓江边散步。
 
 
-![桂林市区-街头歌手](/img/post-content-gl-gs.JPG)
+![桂林市区-街头歌手](/img/post-content-gl-gs.jpg)
 
-![桂林市区-两江西湖夜景](/img/post-content-gl-lj.JPG)
+![桂林市区-两江西湖夜景](/img/post-content-gl-lj.jpg)
 
-![桂林市区-漓江边的夜钓者](/img/post-content-gl-yd.JPG)
+![桂林市区-漓江边的夜钓者](/img/post-content-gl-yd.jpg)
 
 说到美食，在桂林市区的时间里，我们去了一些当地人比较多的老小区，这些地方市井气息很浓。我们像当地人一样，排队，叫老板娘来上二两卤粉，然后去小料区，在卤粉上盖上满满的辣椒、葱、酸豆角、酸萝卜、酸笋。坐在低矮的桌椅上，把卤粉拌匀，开始快乐的嗦粉。时而喝口水，时而观察周围的人，他们吃得认真而享受。此刻，我完全忘记了我是一个游客，就像我在家乡那样稀松平常，在三都的街上，吃上一碗唐洞粉，简单而快乐。
 
