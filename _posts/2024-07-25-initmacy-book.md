@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      
-subtitle:   遇见未知被嫌弃的回避依恋者的一生
+title:      被嫌弃的回避依恋者的一生
+subtitle:   《亲密关系》读后感
 date:       2024-07-25
 author:     Redback
 header-img: img/post-bg-initmacy.JPG
